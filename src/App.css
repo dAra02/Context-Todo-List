@@ -1,0 +1,14 @@
+body {
+	background: #282c34;
+	margin-top: 50px;
+}
+
+button {
+	margin: 5px;
+	padding: 15px;
+	color: black;
+	border: none;
+	border-radius: 10px;
+	font-size: 15px;
+	cursor: pointer;
+}
